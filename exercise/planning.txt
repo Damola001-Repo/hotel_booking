@@ -1,0 +1,7 @@
+User can buy article
+User should get a receipt after buying an article
+
+Classes:
+We can actually have "User" class but i am the only using this program
+We can have "Article" class to keep information about articles
+We should have "Receipt" class, for when a purchase is made
